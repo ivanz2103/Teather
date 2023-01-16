@@ -1,0 +1,46 @@
+* {
+    font-family: 'Roboto', sans-serif; 
+}
+
+.navupdate{
+background-color: black;
+}
+
+.g{
+    text-align: center;
+}
+
+.griot{
+    color: white;
+    text-align: left;
+    font-size: x-large;
+}
+
+.tag{
+    color: white;
+}
+
+#container{
+    border: 2px solid grey;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+
+.april {
+    margin: 35px;
+}
+
+.content{
+    text-align: center;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.read{
+    background-color: orange;
+    color: white;
+}
+
+.foot {
+    background-color: black;
+}
